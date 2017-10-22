@@ -93,25 +93,19 @@ div.box label span {
     padding:5px 20px 0 0;
 }
 
-div.box .wpis {
+div.box .input {
     padding:10px 10px;
     width:200px;
     background:#262626;
     border: 11px double #171717;
-    border-bottom: 1px double #171717;
-    border-top: 1px double #171717;
-    border-left:1px double #333333;
-    border-right:1px double #333333;
+
 }
 
-div.box .wiadomosc {
+div.box .message {
     padding:7px 7px;
     width:350px;
     background:#262626;
-    border-bottom: 1px double #171717;
-    border-top: 1px double #171717;
-    border-left:1px double #333333;
-    border-right:1px double #333333;
+    borderm: 1px double #171717;;
     overflow:hidden;
     height:150px;
 }
